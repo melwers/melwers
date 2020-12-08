@@ -7,7 +7,7 @@
 
 📫 How to reach me **m.e.elwers@gmail.com**
 
-:camera_with_flash: Fun fact **I love to take** [photos!](https://marikesstories.myportfolio.com/)
+📸 Fun fact **I love to take** [photos!](https://marikesstories.myportfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
