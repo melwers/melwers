@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marike :blush: </h1>
 <h3 align="center">A passionate web developer from Berlin!</h3>
 
-🔭 I’m currently working on [The Social Book Club](https://github.com/melwers/social_book_club)
+🔭 I’m currently working on [The Social Book Club](https://github.com/Gregkur/social_book_club)
 
 👯 I’m looking to collaborate on **projects that drive sustainability** :seedling:
 
