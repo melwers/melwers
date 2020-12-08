@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marike </h1>
+<h1 align="center">Hi, I'm Marike :blush: </h1>
 <h3 align="center">A passionate web developer from Berlin!</h3>
 
 🔭 I’m currently working on [The Social Book Club](https://github.com/melwers/social_book_club)
@@ -7,7 +7,7 @@
 
 📫 How to reach me **m.e.elwers@gmail.com**
 
-:camera_with_flash: Fun fact **I love to take photos:** (https://marikesstories.myportfolio.com/)
+:camera_with_flash: Fun fact **I love to take** [photos](https://marikesstories.myportfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
