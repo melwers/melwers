@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marike :blush: </h1>
-<h3 align="center">A passionate web developer from Berlin!</h3>
+<h3 align="center">A passionate web developer from Hamburg!</h3>
 
-🔭 I’m currently working on [my profile page](https://melwers.github.io/profile/)!
+🔭 I’m currently working on [my profile page](https://melwers.github.io/profile/) 👩‍💻
 
 📫 How to reach me **m.e.elwers@gmail.com**
 
