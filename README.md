@@ -3,8 +3,6 @@
 
 🔭 I’m currently working on [my profile page](https://melwers.github.io/profile/)!
 
-👯 I’m looking to collaborate on **projects that drive sustainability** :seedling:
-
 📫 How to reach me **m.e.elwers@gmail.com**
 
 📸 Fun fact **I love to take** [photos!](https://marikesstories.myportfolio.com/)
