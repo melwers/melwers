@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Marike :blush: </h1>
 <h3 align="center">A passionate web developer from Hamburg!</h3>
 
-🔭 I’m currently working on [my profile page](https://melwers.github.io/profile/) 👩‍💻
+🔭 I’m currently working on learning React 👩‍💻
 
 📫 How to reach me **m.e.elwers@gmail.com**
 
-📸 Fun fact **I love to take** [photos!](https://marikesstories.myportfolio.com/)
+📸 ...and **I love to take** [photos!](https://marikesstories.myportfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
