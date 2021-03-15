@@ -5,7 +5,9 @@
 
 📫 How to reach me **m.e.elwers@gmail.com**
 
-📸 ...and **I love to take** [photos!](https://marikesstories.myportfolio.com/)
+⚡ Here's my current [portfolio](https://melwers.github.io/profile/)
+
+📸 ...and **I love to take** [photos!](https://marikesstories.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
