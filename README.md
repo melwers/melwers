@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marike :blush: </h1>
-<h3 align="center">A passionate web developer from Hamburg!</h3>
+<h3 align="center">A Frontend Web Developer from Hamburg!</h3>
 
 🔭 I’m currently learning React 👩‍💻
 
