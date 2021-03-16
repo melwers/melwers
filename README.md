@@ -7,7 +7,7 @@
 
 ⚡ Here's my current [portfolio](https://melwers.github.io/profile/)
 
-📸 ...and **I love to take** [photos!](https://marikesstories.com/)
+📸 ...and **I love to take** [photos!](https://marikesstories.myportfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
